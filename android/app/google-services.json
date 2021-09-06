@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885213364737",
+    "firebase_url": "https://pegassus-mobile.firebaseio.com",
+    "project_id": "pegassus-mobile",
+    "storage_bucket": "pegassus-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885213364737:android:3c98e739de04253e2a3600",
+        "android_client_info": {
+          "package_name": "com.ardalabs.pegassus.Pegassus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885213364737-19qft804grtgn4hg4f81lichn3uobi8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjuCwgnkbgIt5YSl7Rzp39v6ysDQSLTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885213364737-19qft804grtgn4hg4f81lichn3uobi8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
